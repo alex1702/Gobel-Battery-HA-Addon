@@ -1,6 +1,6 @@
 name: "Gobel Battery Monitor (Alex Version)"
 description: "Battery Monitor supports various BMS - Home Assistant Addon"
-version: "1.9.86"
+version: "1.9.86.1"
 slug: "gobel_battery_monitor_elaonde"
 url: "https://github.com/alex1702/Gobel-Battery-HA-Addon"
 init: false
