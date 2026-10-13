@@ -5,6 +5,20 @@ description:
 # Changelog
 
 
+## 1.9.86.2
+
+-   [JKBMS] Fix signed power direction so discharge energy is accumulated separately from charged energy. (thanks @Arturo2869)
+
+---------------
+
+
+## 1.9.86.1
+
+-   [MQTT] Add Option to use TLS and set a custom CA File Path
+
+---------------
+
+
 ## 1.9.86
 
 -   [JKBMS] Fix setup frame voltage register parsing for `VolInverterMaxCharge` (Inverter Max Charge Voltage) at offset 38 and `VolFloatCharge` (Float Charge Voltage) at offset 42 (previously misidentified as battery undervoltage/overvoltage protection).
