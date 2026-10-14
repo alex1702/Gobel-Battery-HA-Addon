@@ -7,6 +7,11 @@ description:
 
 ## 1.9.86.2
 
+-   [JKBMS] Add Enities Charge Status, Charge Status Time, Dry Contact 1 and 2
+
+
+## 1.9.86.2
+
 -   [JKBMS] Fix signed power direction so discharge energy is accumulated separately from charged energy. (thanks @Arturo2869)
 
 ---------------
