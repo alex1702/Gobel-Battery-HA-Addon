@@ -5,9 +5,11 @@ description:
 # Changelog
 
 
-## 1.9.86.2
+## 1.9.86.3
 
 -   [JKBMS] Add Enities Charge Status, Charge Status Time, Dry Contact 1 and 2
+
+---------------
 
 
 ## 1.9.86.2
