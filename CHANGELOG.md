@@ -5,6 +5,14 @@ description:
 # Changelog
 
 
+## 1.9.87.1
+
+-   [JKBMS] Fix `balance_mos` state detection (previously read from the wrong byte, issue #90). The balance MOS state is now read from battery-state byte 172.
+-   [JKBMS] Add `balance_action` and `balance_action_text` entities exposing the balancing state (Off / Charging / Discharging). Issue #90
+
+---------------
+
+
 ## 1.9.87
 
 -   [PACE BMS RS485] Fix pack discovery failure on batteries that respond with short ACK frames (`LENID 000` / 0-byte DATAINFO) for CID2 90 pack-number requests.
